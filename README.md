@@ -2,21 +2,40 @@
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="Images/Banner.png" alt="my banner"></a>
 </p>
 
+## 🌟 WHO AM I:
+
 <h4 align="justify">
 I'm a Mechatronic Engineer with a master's degree in renewable energies with a specialty in green hydrogen.
 <br><br>
 I specialize in data science, analyzing large volumes of data, restructuring and organizing it to develop and train Machine Learning models to obtain predictions. In addition to doing a statistical analysis and identifying hidden patterns to improve the understanding of the DataSet and improve decision making.
-</h4> 
+</h4><br>
 
-<br>
+## 📝SKILLS:
+### Programming languages:
 
-## PROJECTS:
+<table><tr>
+  <td><img src="Icons/Python-Light.svg"></td>
+  <td><img src="Icons/SQL.png"></td>
+  <td><img src="Icons/CPP.svg"></td>
+  <td><img src="Icons/HTML.svg"></td>
+  <td><img src="Icons/CSS.svg"></td>
+  <td><img src="Icons/Kotlin-Light.svg"></td>
+  <td><img src="Icons/Matlab-Light.svg"></td>
+  <td><img src="Icons/Arduino.svg"></td>
+  <td><img src="Icons/RaspberryPi-Light.svg"></td>
+</tr>
+  
+<tr>
+  <td align="center"><a href="https://www.python.org/doc/">Python</a></td>
+</tr></table><br>
 
-<table border:0><tr>
+## 💻 PROJECTS:
+
+<table><tr>
   <td><img src="Images/Machine_Learning.png"></td>
   <td><img src="Images/Probability.png"></td>
   <td><img src="Images/Image_Detection.png"></td>
-</tr></table>
+</tr></table><br>
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
