@@ -14,19 +14,29 @@ I specialize in data science, analyzing large volumes of data, restructuring and
 ### Programming languages:
 
 <table><tr>
-  <td><img src="Icons/Python-Light.svg"></td>
-  <td><img src="Icons/SQL.png"></td>
-  <td><img src="Icons/CPP.svg"></td>
-  <td><img src="Icons/HTML.svg"></td>
-  <td><img src="Icons/CSS.svg"></td>
-  <td><img src="Icons/Kotlin-Light.svg"></td>
-  <td><img src="Icons/Matlab-Light.svg"></td>
-  <td><img src="Icons/Arduino.svg"></td>
-  <td><img src="Icons/RaspberryPi-Light.svg"></td>
+  <td align="center"><img src="Icons/Python-Light.svg" width="40px" align="center"></td>
+  <td align="center"><img src="Icons/SQL.png" width="40px" align="center"></td>
+  <td align="center"><img src="Icons/R-Light.svg" width="40px" align="center"></td>
+  <td align="center"><img src="Icons/CPP.svg" width="40px" align="center"></td>
+  <td align="center"><img src="Icons/HTML.svg" width="40px" align="center"></td>
+  <td align="center"><img src="Icons/CSS.svg" width="40px" align="center"></td>
+  <td align="center"><img src="Icons/Matlab-Light.svg" width="40px" align="center"></td>
+  <td align="center"><img src="Icons/Kotlin-Light.svg" width="40px" align="center"></td>
+  <td align="center"><img src="Icons/Arduino.svg" width="40px" align="center"></td>
+  <td align="center"><img src="Icons/RaspberryPi-Light.svg" width="40px" align="center"></td>
 </tr>
   
 <tr>
-  <td align="center"><a href="https://www.python.org/doc/">Python</a></td>
+  <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Python</a></td>
+  <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">SQL</a></td>
+  <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">R</a></td>
+  <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">C++</a></td>
+  <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">HTML</a></td>
+  <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">CSS</a></td>
+  <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Matlab</a></td>
+  <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Kotlin</a></td>
+  <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Arduino</a></td>
+  <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Raspberry</a></td>
 </tr></table><br>
 
 ## 💻 PROJECTS:
