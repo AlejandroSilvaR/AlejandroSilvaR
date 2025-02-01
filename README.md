@@ -29,15 +29,15 @@ I specialize in data science, analyzing large volumes of data, restructuring and
     
   <tr>
     <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Python</a></td>
-    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">SQL</a></td>
-    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">R</a></td>
-    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">C++</a></td>
-    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">HTML</a></td>
-    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">CSS</a></td>
-    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Matlab</a></td>
-    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Kotlin</a></td>
-    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Arduino</a></td>
-    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Raspberry</a></td>
+    <td align="center"><a style="font-size:10px" href="https://www.oracle.com/co/database/technologies/appdev/sql.html">SQL</a></td>
+    <td align="center"><a style="font-size:10px" href="https://www.r-project.org">R</a></td>
+    <td align="center"><a style="font-size:10px" href="https://isocpp.org/std/the-standard">C++</a></td>
+    <td align="center"><a style="font-size:10px" href="https://html.com/document/">HTML</a></td>
+    <td align="center"><a style="font-size:10px" href="https://devdocs.io/css/">CSS</a></td>
+    <td align="center"><a style="font-size:10px" href="https://www.mathworks.com">Matlab</a></td>
+    <td align="center"><a style="font-size:10px" href="https://kotlinlang.org">Kotlin</a></td>
+    <td align="center"><a style="font-size:10px" href="https://www.arduino.cc">Arduino</a></td>
+    <td align="center"><a style="font-size:10px" href="https://www.raspberrypi.com">Raspberry</a></td>
   </tr></table><br>
 </div>
 
