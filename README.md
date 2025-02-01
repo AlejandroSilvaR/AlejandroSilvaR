@@ -145,6 +145,8 @@ I specialize in data science, analyzing large volumes of data, restructuring and
   </tr></table><br>
 </div>
 
+<br><br><br>
+
 ## 💻 PROJECTS:
 
 <table><tr>
