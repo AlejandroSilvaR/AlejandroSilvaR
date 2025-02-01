@@ -15,16 +15,16 @@ I specialize in data science, analyzing large volumes of data, restructuring and
 
 <div align="center">
   <table><tr>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Python-Light.svg" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.oracle.com/co/database/technologies/appdev/sql.html"><img src="Icons/SQL.png" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.r-project.org"><img src="Icons/R-Light.svg" width="40px" align="center"></td>
-    <td align="center"><a href="https://isocpp.org/std/the-standard"><img src="Icons/CPP.svg" width="40px" align="center"></td>
-    <td align="center"><a href="https://html.com/document/"><img src="Icons/HTML.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Python-Light.svg" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.oracle.com/co/database/technologies/appdev/sql.html"><img src="Icons/SQL.png" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.r-project.org"><img src="Icons/R-Light.svg" width="50px" align="center"></td>
+    <td align="center"><a href="https://isocpp.org/std/the-standard"><img src="Icons/CPP.svg" width="50px" align="center"></td>
+    <td align="center"><a href="https://html.com/document/"><img src="Icons/HTML.svg" width="50px" align="center"></td>
     <td align="center"><a href="https://devdocs.io/css/"><img src="Icons/CSS.svg" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.mathworks.com"><img src="Icons/Matlab-Light.svg" width="40px" align="center"></td>
-    <td align="center"><a href="https://kotlinlang.org"><img src="Icons/Kotlin-Light.svg" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.arduino.cc"><img src="Icons/Arduino.svg" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.raspberrypi.com"><img src="Icons/RaspberryPi-Light.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.mathworks.com"><img src="Icons/Matlab-Light.svg" width="50px" align="center"></td>
+    <td align="center"><a href="https://kotlinlang.org"><img src="Icons/Kotlin-Light.svg" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.arduino.cc"><img src="Icons/Arduino.svg" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.raspberrypi.com"><img src="Icons/RaspberryPi-Light.svg" width="50px" align="center"></td>
   </tr>
     
   <tr>
@@ -45,16 +45,16 @@ I specialize in data science, analyzing large volumes of data, restructuring and
 
 <div align="center">
   <table><tr>
-  <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Pandas.png" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/SciKitLearn-Light.svg" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/PyTorch-Light.svg" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Tensorflow.png" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/keras.png" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Matplotlib.png" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Numpy.png" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Seaborn.png" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/LaTeX-Light.svg" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/MySQL-Light.svg" width="40px" align="center"></td>
+  <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Pandas.png" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/SciKitLearn-Light.svg" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/PyTorch-Light.svg" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Tensorflow.png" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/keras.png" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Matplotlib.png" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Numpy.png" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Seaborn.png" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/LaTeX-Light.svg" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/MySQL-Light.svg" width="50px" align="center"></td>
   </tr>
     
   <tr>
@@ -75,11 +75,11 @@ I specialize in data science, analyzing large volumes of data, restructuring and
 
 <div align="center">
   <table><tr>
-  <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/OpenCV-Light.svg" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Numpy.png" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/pillow-PIL.png" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Scikit-image.png" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/SCIPY_2.svg.png" width="40px" align="center"></td>
+  <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/OpenCV-Light.svg" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Numpy.png" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/pillow-PIL.png" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Scikit-image.png" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/SCIPY_2.svg.png" width="50px" align="center"></td>
   </tr>
     
   <tr>
@@ -95,14 +95,14 @@ I specialize in data science, analyzing large volumes of data, restructuring and
 
 <div align="center">
   <table><tr>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Logo-cuadrado-con-letra-Power-BI.png" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Pandas.png" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/MySQL-Light.svg" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Numpy.png" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Matplotlib.png" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Statsmodels.png" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/SCIPY_2.svg.png" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Seaborn.png" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Logo-cuadrado-con-letra-Power-BI.png" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Pandas.png" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/MySQL-Light.svg" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Numpy.png" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Matplotlib.png" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Statsmodels.png" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/SCIPY_2.svg.png" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Seaborn.png" width="50px" align="center"></td>
   </tr>
     
   <tr>
@@ -121,15 +121,15 @@ I specialize in data science, analyzing large volumes of data, restructuring and
 
 <div align="center">
   <table><tr>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/SolidWorks-Icono.png" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Arduino.svg" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.raspberrypi.com"><img src="Icons/RaspberryPi-Light.svg" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Proteus_Design_Suite_Atom_Logo.png" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/AndroidStudio-Light.svg" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Docker.svg" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Unity-Light.svg" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Discord.svg" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/DiscordBots.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/SolidWorks-Icono.png" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Arduino.svg" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.raspberrypi.com"><img src="Icons/RaspberryPi-Light.svg" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Proteus_Design_Suite_Atom_Logo.png" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/AndroidStudio-Light.svg" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Docker.svg" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Unity-Light.svg" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Discord.svg" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/DiscordBots.svg" width="50px" align="center"></td>
   </tr>
     
   <tr>
