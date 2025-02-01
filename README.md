@@ -53,6 +53,7 @@ I specialize in data science, analyzing large volumes of data, restructuring and
     <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Pandas.png" width="40px" align="center"></td>
     <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Seaborn.png" width="40px" align="center"></td>
     <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Tensorflow.png" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/LaTeX-Light.svg" width="40px" align="center"></td>
     <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/MySQL-Light.svg" width="40px" align="center"></td>
   </tr>
     
@@ -67,6 +68,10 @@ I specialize in data science, analyzing large volumes of data, restructuring and
   <table><tr>
   <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/OpenCV-Light.svg" width="40px" align="center"></td>
     <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/LaTeX-Light.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Numpy.png" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/pillow-PIL.png" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Scikit-image.png" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/SCIPY_2.svg.png" width="40px" align="center"></td>
   </tr>
     
   <tr>
