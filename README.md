@@ -49,7 +49,7 @@ I specialize in data science, analyzing large volumes of data, restructuring and
     <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/SciKitLearn-Light.svg" width="40px" align="center"></td>
     <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/keras.png" width="40px" align="center"></td>
     <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Matplotlib.png" width="40px" align="center"></td>
-    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Matplotlib.png" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Numpy.png" width="40px" align="center"></td>
     <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Pandas.png" width="40px" align="center"></td>
     <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Seaborn.png" width="40px" align="center"></td>
     <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Tensorflow.png" width="40px" align="center"></td>
