@@ -15,16 +15,16 @@ I specialize in data science, analyzing large volumes of data, restructuring and
 
 <div align="center">
   <table><tr>
-    <td align="center"><img src="Icons/Python-Light.svg" width="40px" align="center"></td>
-    <td align="center"><img src="Icons/SQL.png" width="40px" align="center"></td>
-    <td align="center"><img src="Icons/R-Light.svg" width="40px" align="center"></td>
-    <td align="center"><img src="Icons/CPP.svg" width="40px" align="center"></td>
-    <td align="center"><img src="Icons/HTML.svg" width="40px" align="center"></td>
-    <td align="center"><img src="Icons/CSS.svg" width="40px" align="center"></td>
-    <td align="center"><img src="Icons/Matlab-Light.svg" width="40px" align="center"></td>
-    <td align="center"><img src="Icons/Kotlin-Light.svg" width="40px" align="center"></td>
-    <td align="center"><img src="Icons/Arduino.svg" width="40px" align="center"></td>
-    <td align="center"><img src="Icons/RaspberryPi-Light.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Python-Light.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.oracle.com/co/database/technologies/appdev/sql.html"><img src="Icons/SQL.png" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.r-project.org"><img src="Icons/R-Light.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://isocpp.org/std/the-standard"><img src="Icons/CPP.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://html.com/document/"><img src="Icons/HTML.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://devdocs.io/css/"><img src="Icons/CSS.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.mathworks.com"><img src="Icons/Matlab-Light.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://kotlinlang.org"><img src="Icons/Kotlin-Light.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.arduino.cc"><img src="Icons/Arduino.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.raspberrypi.com"><img src="Icons/RaspberryPi-Light.svg" width="40px" align="center"></td>
   </tr>
     
   <tr>
