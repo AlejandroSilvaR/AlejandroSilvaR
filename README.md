@@ -13,31 +13,33 @@ I specialize in data science, analyzing large volumes of data, restructuring and
 ## 📝SKILLS:
 ### Programming languages:
 
-<table><tr>
-  <td align="center"><img src="Icons/Python-Light.svg" width="40px" align="center"></td>
-  <td align="center"><img src="Icons/SQL.png" width="40px" align="center"></td>
-  <td align="center"><img src="Icons/R-Light.svg" width="40px" align="center"></td>
-  <td align="center"><img src="Icons/CPP.svg" width="40px" align="center"></td>
-  <td align="center"><img src="Icons/HTML.svg" width="40px" align="center"></td>
-  <td align="center"><img src="Icons/CSS.svg" width="40px" align="center"></td>
-  <td align="center"><img src="Icons/Matlab-Light.svg" width="40px" align="center"></td>
-  <td align="center"><img src="Icons/Kotlin-Light.svg" width="40px" align="center"></td>
-  <td align="center"><img src="Icons/Arduino.svg" width="40px" align="center"></td>
-  <td align="center"><img src="Icons/RaspberryPi-Light.svg" width="40px" align="center"></td>
-</tr>
-  
-<tr>
-  <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Python</a></td>
-  <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">SQL</a></td>
-  <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">R</a></td>
-  <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">C++</a></td>
-  <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">HTML</a></td>
-  <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">CSS</a></td>
-  <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Matlab</a></td>
-  <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Kotlin</a></td>
-  <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Arduino</a></td>
-  <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Raspberry</a></td>
-</tr></table><br>
+<div align="center">
+  <table><tr>
+    <td align="center"><img src="Icons/Python-Light.svg" width="40px" align="center"></td>
+    <td align="center"><img src="Icons/SQL.png" width="40px" align="center"></td>
+    <td align="center"><img src="Icons/R-Light.svg" width="40px" align="center"></td>
+    <td align="center"><img src="Icons/CPP.svg" width="40px" align="center"></td>
+    <td align="center"><img src="Icons/HTML.svg" width="40px" align="center"></td>
+    <td align="center"><img src="Icons/CSS.svg" width="40px" align="center"></td>
+    <td align="center"><img src="Icons/Matlab-Light.svg" width="40px" align="center"></td>
+    <td align="center"><img src="Icons/Kotlin-Light.svg" width="40px" align="center"></td>
+    <td align="center"><img src="Icons/Arduino.svg" width="40px" align="center"></td>
+    <td align="center"><img src="Icons/RaspberryPi-Light.svg" width="40px" align="center"></td>
+  </tr>
+    
+  <tr>
+    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Python</a></td>
+    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">SQL</a></td>
+    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">R</a></td>
+    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">C++</a></td>
+    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">HTML</a></td>
+    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">CSS</a></td>
+    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Matlab</a></td>
+    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Kotlin</a></td>
+    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Arduino</a></td>
+    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Raspberry</a></td>
+  </tr></table><br>
+</div>
 
 ## 💻 PROJECTS:
 
