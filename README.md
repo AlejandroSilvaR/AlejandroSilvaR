@@ -41,6 +41,74 @@ I specialize in data science, analyzing large volumes of data, restructuring and
   </tr></table><br>
 </div>
 
+### Machine Learning Tools:
+
+<div align="center">
+  <table><tr>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/PyTorch-Light.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/SciKitLearn-Light.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/keras.png" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Matplotlib.png" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Numpy.png" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Pandas.png" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Seaborn.png" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Tensorflow.png" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/MySQL-Light.svg" width="40px" align="center"></td>
+  </tr>
+    
+  <tr>
+    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Python</a></td>
+  </tr></table><br>
+</div>
+
+### Image Detection Tools:
+
+<div align="center">
+  <table><tr>
+  <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/OpenCV-Light.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/LaTeX-Light.svg" width="40px" align="center"></td>
+  </tr>
+    
+  <tr>
+    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Python</a></td>
+  </tr></table><br>
+</div>
+
+### Probability and Statistics Tools:
+
+<div align="center">
+  <table><tr>
+  <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Logo-cuadrado-con-letra-Power-BI.png" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/LaTeX-Light.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/MySQL-Light.svg" width="40px" align="center"></td>
+  </tr>
+    
+  <tr>
+    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Python</a></td>
+  </tr></table><br>
+</div>
+
+### Engineering Tools:
+
+<div align="center">
+  <table><tr>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/AndroidStudio-Light.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Arduino.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Discord.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/DiscordBots.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Docker.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Eclipse-Light.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Proteus_Design_Suite_Atom_Logo.png" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/SolidWorks-Icono.png" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Unity-Light.svg" width="40px" align="center"></td>
+    <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/VSCode-Light.svg" width="40px" align="center"></td>
+  </tr>
+    
+  <tr>
+    <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Python</a></td>
+  </tr></table><br>
+</div>
+
 ## 💻 PROJECTS:
 
 <table><tr>
