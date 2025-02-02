@@ -157,16 +157,17 @@ I specialize in data science, analyzing large volumes of data, restructuring and
   <td><a href="https://github.com/AlejandroSilvaR/Image_Detection"><img src="Images/Image_Detection.png"></td>
 </tr></table><br>
 
-<br><br><br>
+<br><br>
 
 
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/alejandrosilvar/"><img align="left" src="Icons/LinkedIn.svg" alt="LinkedIn" width="40px"></a>
-<a href="https://www.linkedin.com/in/alejandrosilvar/"><img align="left" src="Icons/LinkedIn.svg" alt="LinkedIn" width="40px"></a>
-
-<br>
-
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+<a href="alejandro.silva.des@gmail.com"><img align="left" src="Icons/Gmail.jpg" alt="G-Mail" width="40px"></a>
+<a href="https://www.workana.com/freelancer/15fb8582e70b58e497c2beecdf7559c9"><img align="left" src="Icons/Workana.jpeg" alt="Workana" width="40px"></a>
 
 <br><br>
+
+<p> 💬 If you have any question/feedback, please do not hesitate to reach out to me! </p>
+
+<br>
