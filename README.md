@@ -163,11 +163,15 @@ I specialize in data science, analyzing large volumes of data, restructuring and
 
 <br>
 
+### 🪪 My CV:
+
+<br>
+
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/alejandrosilvar/"><img align="left" src="Icons/LinkedIn.svg" alt="LinkedIn" width="40px"></a>
-<a href="mailto:alejandro.silva.des@gmail.com"><img align="left" src="Icons/Gmail.jpg" alt="alejandro.silva.des@gmail.com" width="40px"></a>
-<a href="https://www.workana.com/freelancer/15fb8582e70b58e497c2beecdf7559c9"><img align="left" src="Icons/Workana.jpeg" alt="Workana" width="40px"></a>
+<a href="https://www.workana.com/freelancer/15fb8582e70b58e497c2beecdf7559c9"><img align="left" src="Icons/Workana.jpeg" alt="Workana" width="40px"></a><br><br>
+#### Gmail: alejandro.silva.des@gmail.com
 
 <br><br>
 
