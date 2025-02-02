@@ -173,6 +173,4 @@ I specialize in data science, analyzing large volumes of data, restructuring and
 <a href="https://www.workana.com/freelancer/15fb8582e70b58e497c2beecdf7559c9"><img align="left" src="Icons/Workana.jpeg" alt="Workana" width="40px"></a><br><br>
 #### Gmail: alejandro.silva.des@gmail.com
 
-<br><br>
-
-<p> 💬 If you have any question/feedback, please do not hesitate to reach out to me! </p>
+<br>
