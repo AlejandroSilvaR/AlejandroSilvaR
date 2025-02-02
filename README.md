@@ -16,7 +16,7 @@ I specialize in data science, analyzing large volumes of data, restructuring and
 <div align="center">
   <table><tr>
     <td align="center"><a href="https://www.python.org/doc/"><img src="Icons/Python-Light.svg" width="50px" align="center"></td>
-    <td align="center"><a href="https://www.oracle.com/co/database/technologies/appdev/sql.html"><img src="Icons/SQL.png" width="50px" align="center"></td>
+    <td align="center"><a href="https://www.oracle.com/database/technologies/appdev/sql.html"><img src="Icons/SQL.png" width="50px" align="center"></td>
     <td align="center"><a href="https://www.r-project.org"><img src="Icons/R-Light.svg" width="50px" align="center"></td>
     <td align="center"><a href="https://isocpp.org/std/the-standard"><img src="Icons/CPP.svg" width="50px" align="center"></td>
     <td align="center"><a href="https://html.com/document/"><img src="Icons/HTML.svg" width="50px" align="center"></td>
@@ -29,7 +29,7 @@ I specialize in data science, analyzing large volumes of data, restructuring and
     
   <tr>
     <td align="center"><a style="font-size:10px" href="https://www.python.org/doc/">Python</a></td>
-    <td align="center"><a style="font-size:10px" href="https://www.oracle.com/co/database/technologies/appdev/sql.html">SQL</a></td>
+    <td align="center"><a style="font-size:10px" href="https://www.oracle.com/database/technologies/appdev/sql.html">SQL</a></td>
     <td align="center"><a style="font-size:10px" href="https://www.r-project.org">R</a></td>
     <td align="center"><a style="font-size:10px" href="https://isocpp.org/std/the-standard">C++</a></td>
     <td align="center"><a style="font-size:10px" href="https://html.com/document/">HTML</a></td>
