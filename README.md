@@ -157,14 +157,10 @@ I specialize in data science, analyzing large volumes of data, restructuring and
   <td><a href="https://github.com/AlejandroSilvaR/Image_Detection"><img src="Images/Image_Detection.png"></td>
 </tr></table><br>
 
-<br><br>
-
-### 📋 Portfolio:
-
 <br>
 
 ### 🪪 My CV:
-
+<a href="https://drive.google.com/drive/folders/1Ni5tW0x7mb887pzZ7keoiojKTjdmz5lV?usp=sharing"><img align="left" src="Icons/CV.png" alt="LinkedIn" width="60px"></a>
 <br>
 
 ### 🤝 Connect with me:
