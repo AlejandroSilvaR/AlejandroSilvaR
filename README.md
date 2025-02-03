@@ -151,11 +151,9 @@ I specialize in data science, analyzing large volumes of data, restructuring and
 
 <h2 align="center">⬇️⬇️ Choose one to see them ⬇️⬇️</p><br>
 
-<table><tr>
-  <td><a href="https://github.com/AlejandroSilvaR/Machine_Learning"><img src="Images/Machine_Learning.png"></td>
-  <td><a href="https://github.com/AlejandroSilvaR/Probability"><img src="Images/Probability.png"></td>
-  <td><a href="https://github.com/AlejandroSilvaR/Image_Detection"><img src="Images/Image_Detection.png"></td>
-</tr></table><br>
+<a href="https://github.com/AlejandroSilvaR/Machine_Learning"><img src="Images/Machine_Learning.png"><br>
+<a href="https://github.com/AlejandroSilvaR/Probability_and_Statistics"><img src="Images/Probability_and_Statistics.png"><br>
+<a href="https://github.com/AlejandroSilvaR/Image_Detection"><img src="Images/Image_Detection.png"><br>
 
 <br>
 
