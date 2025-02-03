@@ -159,10 +159,6 @@ I specialize in data science, analyzing large volumes of data, restructuring and
 
 <br><br>
 
-### 📋 Portfolio:
-
-<br>
-
 ### 🪪 My CV:
 
 <br>
